@@ -1,0 +1,37 @@
+.table-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 20px;
+}
+.table-title{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 20px;
+}
+
+.table-contents{
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+}
+.date{
+    margin-bottom: 20px;
+    margin-top:20px;
+    margin-left: 20px;
+    width:120px;
+}
+.name{
+    margin-left: 12vw;
+}
+
+.score{
+    margin-left:18vw;
+}
+.rightAnswer{
+    margin-left: 22vw;
+}
+.bonus{
+    margin-left: 27vw;
+}

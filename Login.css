@@ -1,0 +1,42 @@
+.Login-container{
+    background-image: url("https://i.postimg.cc/PrBBVV5v/reception-desk.jpg");
+    height: 100vh;
+    padding: 50px;
+}
+.New-Registration{
+    background-color: rgba(255, 255, 255, 0.911);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 20px;
+    height: 550px;
+    border: 2px solid black;
+}
+.Registration-heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+.Already-Registered-container{
+    background-color: rgba(255, 255, 255, 0.911);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 350px;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.Registered-Heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    font-size: 25px;
+    text-align: center;
+}

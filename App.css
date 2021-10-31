@@ -1,0 +1,13 @@
+.New-Registration {
+  display: flex;
+  flex-direction: column;
+}
+.Login-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Already-Registered {
+  display: flex;
+  flex-direction: column;
+}
